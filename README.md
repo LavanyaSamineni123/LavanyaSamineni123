@@ -21,7 +21,7 @@ I'm skilled in both descriptive and predictive analytics, cloud data engineering
 
 ## 🛠 Expertise
 
-- Cloud data engineering with **Azure** (Microsoft Fabric, Data Factory, Synapse)
+- Cloud data engineering with **Azure** (Microsoft Fabric, Data Factory, Databricks, Synapse)
 - Advanced analytics with **Python** & **SQL**
 - Building scalable ETL pipelines & automated CI/CD workflows
 
