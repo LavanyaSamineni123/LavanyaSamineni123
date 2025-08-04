@@ -9,7 +9,7 @@ Master’s in Computer Information Technology - Purdue University
 
 Curiosity drives my approach to data. As a data analytics professional, I consistently seek new ways to transform raw data into meaningful strategies and business impact. Whether it’s building robust ETL pipelines, designing insightful dashboards, or developing predictive models, I enjoy solving complex problems and discovering patterns that matter.
 
-I'm skilled in both descriptive and predictive analytics, cloud data engineering, and business intelligence. My experience spans Microsoft Fabric, Synapse Analytics, Azure Data Factory, and advanced analytics with Python and SQL. I thrive on making data accessible and actionable—always focusing on clear communication, stakeholder collaboration, and continuous improvement.
+I'm skilled in both descriptive and predictive analytics, cloud data engineering, and business intelligence. My experience spans Microsoft Fabric, Synapse Analytics, Azure Data Factory, and advanced analytics with Python and SQL. I thrive on making data accessible and actionable, always focusing on clear communication, stakeholder collaboration, and continuous improvement.
 
 
 ## 🔎 Analytics & BI
